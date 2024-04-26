@@ -1,1 +1,1 @@
-# Sweet-Success-using-Power-BI
+"Sweet Success using Power BI" is a project showcasing the power of data analytics in the chocolate sales domain. Dive into insightful visualizations and forecasts, empowering strategic decision-making for sweet business growth
